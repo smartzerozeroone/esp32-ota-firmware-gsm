@@ -1,4 +1,4 @@
 {
   "version": "1.0.1",
-  "firmware": "https://raw.githubusercontent.com/YOUR_USERNAME/esp32-ota-firmware/main/main/firmware.bin"
+  "firmware": "https://github.com/smartzerozeroone/esp32-ota-firmware-gsm/blob/main/main/main.ino.bin"
 }
